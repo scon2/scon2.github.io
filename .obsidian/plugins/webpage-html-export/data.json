@@ -30,7 +30,7 @@
   "authorName": "",
   "vaultTitle": "scon2.github.io",
   "exportPreset": "website",
-  "openAfterExport": false,
+  "openAfterExport": true,
   "graphAttractionForce": 1,
   "graphLinkLength": 10,
   "graphRepulsionForce": 150,
@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "C:\\\\Users\\IRACK\\Desktop\\Speekrr.github.io\\docs",
+  "exportPath": "C:\\\\Users\\ChoJunseop\\Desktop\\대학폴더\\scon2.github.io\\docs",
   "filesToExport": [
     []
   ]
