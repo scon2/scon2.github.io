@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4a53a2dcc76747b9",
+        "id": "620fd941581369c2",
         "type": "tabs",
         "children": [
           {
-            "id": "e85638fcd2d3f4e4",
+            "id": "04cc3b7b00d314d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -58,15 +54,7 @@
             }
           },
           {
-            "id": "282785a1bb3d0704",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "b8ff0ac96e5efc52",
+            "id": "e33b7eade8263e96",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -74,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -94,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "test.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -159,12 +143,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e85638fcd2d3f4e4",
+  "active": "4beaa7858a4ae431",
   "lastOpenFiles": [
-    "docs/lib/styles/other-plugins.css",
+    "Untitled Kanban.md",
+    "Untitled.md",
+    "index.md",
     "test.md",
     "README.md",
-    "index.md",
+    "docs/lib/styles/other-plugins.css",
     "이름 없는 보드.md",
     "이름 없는 보드 1.md",
     "docs/lib/search-index.json",
@@ -176,7 +162,6 @@
     "docs/lib/scripts/graph-data.js",
     "docs/lib/scripts/minisearch.js",
     "docs/lib/scripts/pixi.js",
-    "docs/lib/scripts/tinycolor.js",
     "docs/lib/media/favicon.png",
     "docs/lib/media/3d6c1bdc4d87cde4de67.svg",
     "docs/lib/media/874d8b8e340f75575caa.svg",
